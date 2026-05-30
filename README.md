@@ -1,6 +1,6 @@
-# OpenClaw Lite
+# NexusFlow
 
-OpenClaw Lite is an intelligent, multi-modal AI agent orchestration platform. It operates seamlessly across different interfaces, currently supporting a Command Line Interface (CLI) and a Telegram Bot interface, with a flexible architecture designed for executing complex tasks, researching, and autonomous planning.
+ Nexus Flow is an intelligent, multi-modal AI agent orchestration platform. It operates seamlessly across different interfaces, currently supporting a Command Line Interface (CLI) and a Telegram Bot interface, with a flexible architecture designed for executing complex tasks, researching, and autonomous planning.
 
 ## 🚀 Features
 
@@ -43,6 +43,6 @@ Make sure you have [Bun](https://bun.sh/) installed on your system.
 ### Installation
 
 ```bash
-git clone [https://github.com/yourusername/openclawlite.git](https://github.com/yourusername/openclawlite.git)
-cd openclawlite
+git clone [https://github.com/yourusername/nexusflow.git](https://github.com/yourusername/nexusflow.git)
+cd nexusflow
 bun install

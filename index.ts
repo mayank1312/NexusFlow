@@ -4,8 +4,8 @@ import { wakeup } from "./tui/wakeup";
 const program=  new Command();
 
 program
-.name("OpenClawLite-Build")
-.description("openclawlite is a powerful cli tool")
+.name("Nexusflow-Build")
+.description("nexusflow is a powerful cli tool")
 .version("0.0.1");
 
 program

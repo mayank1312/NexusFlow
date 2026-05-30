@@ -1,10 +1,10 @@
 {
-  "name": "openclawlite",
+  "name": "nexusflow",
   "module": "index.ts",
   "type": "module",
   "private": true,
   "bin": {
-    "OpenClawLite-Build": "./index.ts"
+    "Nexusflow-Build": "./index.ts"
   },
   "devDependencies": {
     "@types/bun": "latest"
